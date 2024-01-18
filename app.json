@@ -23,7 +23,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.kishanlalsaran.expodemo"
+      "package": "com.expodemo.expodemo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
